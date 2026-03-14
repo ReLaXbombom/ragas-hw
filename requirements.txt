@@ -1,0 +1,7 @@
+pypdf
+sentence-transformers
+rank-bm25
+faiss-cpu
+pandas
+openpyxl
+tqdm
